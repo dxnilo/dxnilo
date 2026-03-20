@@ -1,218 +1,228 @@
-<!-- =====================================================================
-     HEADER — Banner animado con texto typewriter
-     EDITAR: líneas del typewriter en el parámetro "lines="
-     Cada frase va separada por ";"
-     ===================================================================== -->
+<!-- ═══════════════════════════════════════════════════════════════
+     PALETA: #0a0a12 (fondo) · #7B2FBE (morado base) · #9D4EDD (morado claro)
+             #C77DFF (acento) · #E0AAFF (highlight) · todo uniforme
+     EDITAR: donde veas "dxnilo" reemplaza con tu username de GitHub
+     ═══════════════════════════════════════════════════════════════ -->
+
+
+<!-- ┌─────────────────────────────────────────────────────────────┐
+     │  HEADER — ola de entrada con nombre y título animado        │
+     └─────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:3b1f6e,100:B44FFF&height=200&section=header&text=Danilo%20Padilla&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20SaaS%20Builder%20%7C%20Barranquilla%2C%20Colombia&descAlignY=58&descSize=16&descColor=cccccc" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,30:1a0533,70:4a1a8c,100:7B2FBE&height=240&section=header&text=Danilo%20Padilla%20Charris&fontSize=46&fontColor=E0AAFF&fontAlignY=42&animation=fadeIn&desc=Data%20Science%20·%20SaaS%20Builder%20·%20Barranquilla%2C%20Colombia&descAlignY=60&descSize=16&descColor=9D4EDD" />
 </div>
+
+
+<!-- ┌─────────────────────────────────────────────────────────────┐
+     │  TYPING — frases animadas que se escriben solas             │
+     │  EDITAR: cambia las frases en "lines=" separadas por ";"   │
+     └─────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=B44FFF&background=00000000&center=true&vCenter=true&width=640&lines=Building+SaaS+products+from+scratch.;First-year+Data+Science+student.;Interested+in+Quantitative+Finance.;Writing+clean+PHP+%2B+PostgreSQL.;Learning+something+new+every+day.)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Building+real+products+from+scratch.;Data+Science+student+%40+1st+semester.;Quantitative+Finance+enthusiast.;Clean+architecture%2C+real+impact.;Always+learning.+Always+shipping." />
+</a>
 </div>
 
----
+<br/>
 
-<!-- =====================================================================
-     ABOUT — Bloque de presentación personal
-     EDITAR: modifica cualquier campo dentro del bloque ```yaml
-     ===================================================================== -->
+<!-- ┌─────────────────────────────────────────────────────────────┐
+     │  SEPARADOR ANIMADO                                          │
+     └─────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                        ABOUT ME                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a12,100:1a0533&height=3&section=header&reversal=false" />
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+
+<!-- ┌─────────────────────────────────────────────────────────────┐
+     │  ABOUT — header de sección animado + bloque yaml limpio    │
+     └─────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:2d0f5e&height=38&text=%E2%96%A0%20ABOUT&fontSize=16&fontColor=E0AAFF&fontAlign=12&animation=blinking&fontAlignY=62" width="100%"/>
+</div>
+
+<br/>
 
 ```yaml
-
-name         : Danilo Padilla charris
-location     : Barranquilla, Colombia
-education    : Data Science — 1st Semester
-focus        : Building SaaS products independently
-current      : SG-SST Manager (Occupational Health & Safety SaaS)
-
-interests    :
-  - Quantitative Finance & Algorithmic Trading
-  - Full-Stack Software Development
-  - Data Science & Machine Learning
-
-currently_learning :
-  - Flask & Django for backend APIs
-  - React for frontend interfaces
-  - Quant strategies with Python
-
-languages    : [ "Spanish (Native)", "English (b1)" ]
+name      : Danilo Padilla Charris
+location  : Barranquilla, Colombia
+education : Data Science — 1st Semester
+building  : SG-SST Manager  ·  Occupational Health & Safety SaaS
+goals     :
+  - Land a role in the tech industry
+  - Launch SG-SST Manager to production
+  - Break into Quantitative Finance
+  - Build a portfolio that speaks for itself
+languages : [ "Spanish — Native", "English — b1" ]
 ```
 
----
+<br/>
 
-<!-- =====================================================================
-     STATS — Estadísticas de GitHub
-     EDITAR: reemplaza "dxnilo" con tu username exacto de GitHub
-     en TODOS los src= de esta sección
-     ===================================================================== -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+
+<!-- ┌─────────────────────────────────────────────────────────────┐
+     │  GITHUB STATS — cards con la paleta unificada               │
+     │  EDITAR: reemplaza "dxnilo" con tu username en TODOS        │
+     └─────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:2d0f5e&height=38&text=%E2%96%A0%20GITHUB%20STATS&fontSize=16&fontColor=E0AAFF&fontAlign=16&animation=blinking&fontAlignY=62" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                      GITHUB STATS                            ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<!-- Stats generales + lenguajes lado a lado -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=dxnilo&show_icons=true&include_all_commits=true&count_private=true&border_color=B44FFF&title_color=FFD700&icon_color=B44FFF&text_color=dedede&bg_color=0d0d1a&hide_border=false&rank_icon=github" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxnilo&layout=compact&langs_count=8&border_color=B44FFF&title_color=FFD700&text_color=dedede&bg_color=0d0d1a" />
-
-<!-- Streak — racha de contribuciones diarias -->
-<!-- Muestra: total de contribuciones / racha actual / racha más larga -->
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dxnilo&border=B44FFF&ring=B44FFF&fire=FFD700&currStreakLabel=FFD700&sideLabels=dedede&dates=888888&background=0d0d1a&stroke=3b1f6e&currStreakNum=ffffff&sideNums=ffffff" />
-
-<!-- Gráfico de actividad por días -->
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dxnilo&bg_color=0d0d1a&color=B44FFF&line=FFD700&point=ffffff&area=true&area_color=3b1f6e&border_color=B44FFF" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=dxnilo&show_icons=true&include_all_commits=true&count_private=true&border_color=7B2FBE&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&bg_color=0a0a12&rank_icon=github&hide_border=false&border_radius=12" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxnilo&layout=compact&langs_count=8&border_color=7B2FBE&title_color=C77DFF&text_color=E0AAFF&bg_color=0a0a12&border_radius=12" />
 
 </div>
 
----
+<br/>
 
-<!-- =====================================================================
-     TECH STACK — Tecnologías y herramientas
-     EDITAR: agrega o quita badges según lo que uses
-     Para generar badges personalizados: https://shields.io
-     Formato: ![Nombre](https://img.shields.io/badge/Nombre-COLOR?style=for-the-badge&logo=LOGO&logoColor=COLOR)
-     Lista de logos disponibles: https://simpleicons.org
-     ===================================================================== -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dxnilo&border=7B2FBE&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&dates=7B2FBE&background=0a0a12&stroke=4a1a8c&currStreakNum=E0AAFF&sideNums=E0AAFF&border_radius=12" />
+</div>
+
+<br/>
+
+<div align="center">
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=dxnilo&bg_color=0a0a12&color=C77DFF&line=7B2FBE&point=E0AAFF&area=true&area_color=2d0f5e&border_color=7B2FBE&radius=8&hide_border=false" />
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+
+<!-- ┌─────────────────────────────────────────────────────────────┐
+     │  TECH STACK — iconos animados por skillicons.dev            │
+     │  EDITAR: agrega/quita íconos en i=...                       │
+     │  Lista completa: https://skillicons.dev                     │
+     └─────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:2d0f5e&height=38&text=%E2%96%A0%20TECH%20STACK&fontSize=16&fontColor=E0AAFF&fontAlign=15&animation=blinking&fontAlignY=62" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                       TECH  STACK                            ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=php,python,js&theme=dark&perline=3" />
+
+<br/><br/>
+
+<!-- Frameworks & Runtimes -->
+<img src="https://skillicons.dev/icons?i=nodejs,react,flask,django&theme=dark&perline=4" />
+
+<br/><br/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark&perline=4" />
+
+<br/><br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
 
 </div>
 
-<!-- ── LANGUAGES ─────────────────────────────────────────── -->
-**Languages**
+<br/>
 
-![PHP](https://img.shields.io/badge/PHP-B44FFF?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0d0d1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-B44FFF?style=for-the-badge&logo=javascript&logoColor=0d0d1a)
-![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=0d0d1a)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- ── FRAMEWORKS & RUNTIMES ──────────────────────────────── -->
-**Frameworks & Runtimes**
 
-![Node.js](https://img.shields.io/badge/Node.js-B44FFF?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=0d0d1a)
-![Flask](https://img.shields.io/badge/Flask-B44FFF?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-FFD700?style=for-the-badge&logo=django&logoColor=0d0d1a)
-
-<!-- ── DATABASES ───────────────────────────────────────────── -->
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B44FFF?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=0d0d1a)
-![Supabase](https://img.shields.io/badge/Supabase-B44FFF?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-FFD700?style=for-the-badge&logo=sqlite&logoColor=0d0d1a)
-
-<!-- ── TOOLS ──────────────────────────────────────────────── -->
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-B44FFF?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=0d0d1a)
-![VS Code](https://img.shields.io/badge/VS_Code-B44FFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=0d0d1a)
-
----
-
-<!-- =====================================================================
-     FEATURED PROJECT — Proyecto principal
-     EDITAR: cambia el repo= con el nombre exacto del repositorio
-     y edita la descripción en el bloque de texto debajo
-     ===================================================================== -->
+<!-- ┌─────────────────────────────────────────────────────────────┐
+     │  FEATURED PROJECT — card del repo principal                 │
+     │  EDITAR: repo=NOMBRE_EXACTO_DEL_REPOSITORIO                │
+     └─────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:2d0f5e&height=38&text=%E2%96%A0%20FEATURED%20PROJECT&fontSize=16&fontColor=E0AAFF&fontAlign=20&animation=blinking&fontAlignY=62" width="100%"/>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                   FEATURED  PROJECT                          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<br/>
 
-<!-- EDITAR: username=TU_USUARIO  repo=NOMBRE_EXACTO_DEL_REPO -->
+<div align="center">
 <a href="https://github.com/dxnilo/sg-sst-manager">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dxnilo&repo=sg-sst-manager&border_color=B44FFF&title_color=FFD700&icon_color=B44FFF&text_color=dedede&bg_color=0d0d1a" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dxnilo&repo=sg-sst-manager&border_color=7B2FBE&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&bg_color=0a0a12&border_radius=12" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/PHP-pure%2C%20no%20frameworks-7B2FBE?style=flat-square&logo=php&logoColor=E0AAFF" />
+&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-Supabase-9D4EDD?style=flat-square&logo=supabase&logoColor=E0AAFF" />
+&nbsp;
+<img src="https://img.shields.io/badge/32%20modules-completed-7B2FBE?style=flat-square&logoColor=E0AAFF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Active%20Dev-9D4EDD?style=flat-square&logoColor=E0AAFF" />
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+
+<!-- ┌─────────────────────────────────────────────────────────────┐
+     │  CONTACT — badges clickables con info real                  │
+     └─────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:2d0f5e&height=38&text=%E2%96%A0%20CONTACT&fontSize=16&fontColor=E0AAFF&fontAlign=13&animation=blinking&fontAlignY=62" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/danilo-p-ch">
+<img src="https://img.shields.io/badge/LinkedIn-Danilo%20Padilla%20Charris-7B2FBE?style=for-the-badge&logo=linkedin&logoColor=E0AAFF" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:danilodejesus0225pch@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-danilodejesus0225pch%40gmail.com-9D4EDD?style=for-the-badge&logo=gmail&logoColor=E0AAFF" />
+</a>
+
+<br/><br/>
+
+<a href="https://wa.me/573007219093">
+<img src="https://img.shields.io/badge/WhatsApp-%2B57%20300%20721%209093-7B2FBE?style=for-the-badge&logo=whatsapp&logoColor=E0AAFF" />
 </a>
 
 </div>
 
-<!-- EDITAR: modifica la descripción del proyecto -->
-```
-SG-SST Manager
-─────────────────────────────────────────────────────────────
-SaaS system for occupational health & safety compliance in
-Colombia (Resolución 0312). Built with pure PHP, PostgreSQL
-and Supabase. 32 modules completed — alerts, checklists,
-email notifications via SMTP, and more.
-─────────────────────────────────────────────────────────────
-Stack : PHP  |  PostgreSQL  |  Supabase  |  SMTP / Gmail
-Status: Active development — Phase 6
-```
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- =====================================================================
-     CONTACT — Información de contacto
-     EDITAR: los links ya tienen tu info real,
-     solo actualiza si cambian en el futuro
-     ===================================================================== -->
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                        CONTACT                               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<!-- LinkedIn — EDITAR: cambia el href si tu URL cambia -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B44FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-p-ch)
-
-<!-- Email — EDITAR: cambia el mailto: si cambias de correo -->
-[![Email](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=0d0d1a)](mailto:danilodejesus0225pch@gmail.com)
-
-<!-- WhatsApp — EDITAR: el número ya está incluido -->
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-B44FFF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573007219093)
-
-</div>
-
----
-
-<!-- =====================================================================
-     FOOTER — Contador de visitas + onda decorativa
-     EDITAR: reemplaza "dxnilo" con tu username de GitHub
-     ===================================================================== -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dxnilo&color=B44FFF&style=for-the-badge&label=Profile+Views)
+<!-- ┌─────────────────────────────────────────────────────────────┐
+     │  FOOTER — contador de visitas + ola de salida animada       │
+     │  EDITAR: username=TU_USUARIO_GITHUB                         │
+     └─────────────────────────────────────────────────────────────┘ -->
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B44FFF,100:0d0d1a&height=100&section=footer"/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=dxnilo&color=7B2FBE&style=for-the-badge&label=Profile+Views" />
+</div>
 
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:2d0f5e,100:0a0a12&height=130&section=footer&animation=fadeIn" />
 </div>
