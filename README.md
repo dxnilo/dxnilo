@@ -34,7 +34,6 @@
 </div>
 
 ```yaml
-# ── EDITAR: cambia los valores que necesites ──────────────────
 
 name         : Danilo Padilla charris
 location     : Barranquilla, Colombia
@@ -52,7 +51,7 @@ currently_learning :
   - React for frontend interfaces
   - Quant strategies with Python
 
-languages    : [ "Spanish (Native)", "English (Professional)" ]
+languages    : [ "Spanish (Native)", "English (b1)" ]
 ```
 
 ---
